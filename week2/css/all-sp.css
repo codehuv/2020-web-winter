@@ -1,0 +1,20 @@
+#box-model{
+    border: 3px solid orange;
+    margin: 0 auto;
+}
+.color-red{
+    color:red;
+}
+.color-orange{
+    color:#f58402;
+}
+table {
+    border:5px solid lightskyblue;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+td{
+    text-align: center;
+}
