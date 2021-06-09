@@ -1,9 +1,16 @@
 # YourSampple
 
 [SAMSUNG](https://www.samsung.com/sec/)과 [APPLE](https://www.apple.com/)의
-단어가 합쳐진 [YourSampple](http://khuhub.khu.ac.kr/2018102185/YourSampple)은 
+단어가 합쳐진 [YourSampple](https://www.yoursampple.tk:23023/)은 
 당신이 알고 싶은 모든 것에 해답을 제공해줍니다!
 
+
+
+###
+
+[site](https://www.yoursampple.tk:23023/)
+[pptx](opensw-oss.pptx)
+![screenshot](webpage.jpg)
 ## Why do we need it?
 
 YourSampple은 사용자에게 두가지 솔루션을 제공합니다.
