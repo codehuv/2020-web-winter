@@ -39,3 +39,10 @@ $ npm install
 $ node server-local.js
 ```
 이후 주소창에 [localohst:23023](localhost:23023)을 입력하시면 접속할 수 있습니다.
+
+# Built with
+
+* [Express](https://github.com/expressjs/express)
+* [Node-cron](https://github.com/kelektiv/node-cron)
+* [Cheerio](https://github.com/cheeriojs/cheerio)
+* [ejs](https://github.com/mde/ejs)
